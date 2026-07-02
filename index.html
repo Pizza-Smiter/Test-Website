@@ -21,8 +21,14 @@
  
         <h1>My Music!</h1>
         <h2>Festive Shop Keeper</h2>
-        <audio controls autoplay>
-    <source src="MexicanShopKeeper.mp3" type="audio/mpeg">
-        </audio>
+        <audio id="myAudio" src="MexicanShopKeeper.mp3" loop></audio>
+        <script>
+            document.addEventListener('click', () => {
+                const audio = document.getElementById('myAudio');
+                audio.play().catch(error => {
+                    console.log("Autoplay was prevented initially:", error);
+                });
+            }, {once: true});
+        </script>
         <p>I'm not too sure what I'd use this song for, I kind of just make songs for this imaginary game I want to make in the future.</p>
   </body>
