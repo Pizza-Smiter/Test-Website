@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <body style="background-color:DarkBlue;">
-<img src="PizzaTest.png" alt="Pizza Smiter Waving" width="100" height="100">
-<img src="Photoshop Flowery.png" alt="Deltarune" width="640" height="480">
+<!--<img src="PizzaTest.png" alt="Pizza Smiter Waving" width="100" height="100">-->
+<img src="Photoshop Flowery.png" alt="DeltaruneSpoilers" width="640" height="480">
 <style>
     h1 {color:Maroon;}
     h2 {color:Pink;}
@@ -15,14 +15,20 @@
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <title>Epic Test Website</title>
-     <link rel="icon" type="image/x-icon" href="/images/HeadImage.ico">
+     <link rel="icon" type="image/x-icon" href="HeadImage.ico">
    </head>
 
   <body>
-    <h1>Hey every     !!</h1>
+    <h1>Hey y'all</h1>
     <p>Weclome to my tubular webpage dude! Also hi Kenny</p>
- 
-        <h1>My Music!</h1>
+
+    <p>I am Pizza Smiter and this is my website! This is a test website but this will probably just become my main website.
+    <p>Well it is my only actual website so I guess it already is. Anyways, I like to work on this website when I'm bored and have nothing better to do.</p>
+    <p>There's not much to do on this website besides listen to some of my music (more is to come) and look at the beautiful photoshop I made at the top of the screen.</p>
+    <p>I will probably be adding more to the website when I get around to learing CSS and Javascript.</p></p>
+      
+        <h1>My Music!!!</h1>
+            <h5>Disclaimer, I'm not 100% if the dates on the songs are accurate. So maybe take them with a grain of salt.</h5>
         <h2>Festive Shop Keeper</h2>
             <h5>Created in Fl Studio 12</h5>
             <h5>Made December 12, 2025</h5>
@@ -44,9 +50,24 @@
                 <audio controls>
                     <source src="PartTimePolka.mp3" type="audio/mpeg">
                 </audio>
+         <h2>Super Duper Evil Gang Song</h2>
+            <h5>Created in Fl Studio 25</h5>
+            <h5>August 29, 2025</h5>
+            <p>The melody in the song sounds compressed because when the FL people added the soundfont player back in FL 20 they broke it. It's kind of the reason I switched to Fl 12</p>
+                <audio controls>
+                    <source src="PianoFightV3.mp3" type="audio/mpeg">
+                </audio>
           <h1>Links</h1>
           <p><a href="https://www.roblox.com/users/4709867691/profile" target="_blank">https://www.roblox.com/users/4709867691/profile</a></p>
           <p><a href="https://github.com/Pizza-Smiter" target="_blank">https://github.com/Pizza-Smiter</a></p>
           <p><a href="https://x.com/tobyfox" target="_blank">https://x.com/PizzaSmiter</a></p>
+          <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">https://Onlyfans.com/PizzaSmiter</a></p>
+          <p> </p>
+          <p> </p>   
+          <p> </p>
+          <p> </p>
+          <p> </p>
+          <p> </p>   
+          <p>Doug is bald</p>
   
   </body>
