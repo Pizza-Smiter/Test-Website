@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<link href="layout.css" type="text/css" rel="stylesheet">
+<link href="main.css" type="text/css" rel="stylesheet">
+<body style="background-color:Black;">
+<style>
+    nav{width: 95px;}
+</style>
+<nav>
+    <h2>Pages</h2>
+    <div><a href="index.html">Home</a></div>
+    <div><a href="music.html">Music</a></div>
+    <div><a href="Onion.html">Onion</a></div>
+</nav>
+<head>
+    <meta charset="UTF-8">
+    <title>RIP Onion</title>
+</head>
+<body>
+    <img src="Onion.png" alt="RipOnion" width="500" height="500">
+    <h1>R.I.P. ONION</h1>
+    <p>Gaster & Gang slimed my boy Onion ):</p>
+
+    <audio id="bgMusic" loop>
+        <source src="PirateDojo.mp3" type="audio/mpeg">
+    </audio>
+
+    <script>
+        const audio = document.querySelector('audio');
+        if(!audio)
+        {
+            console.error("Could not find audio")
+        }
+        function startAudioOnInteraction()
+        {
+            audio.play().then(() =>
+            {
+                console.log("Audio started and looping");
+
+                document.removeEventListener('click', startAudioOnInteraction);
+            })
+                .catch(error =>
+                {
+                    console.log("Waiting for interaction");
+                });
+        }
+
+        document.addEventListener('click', startAudioOnInteraction);
+    </script>
+</body>
+

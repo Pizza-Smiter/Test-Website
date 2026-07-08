@@ -1,0 +1,38 @@
+h1, h2
+{
+    font-family: "Papyrus", serif
+}
+
+h1
+{
+    color: #cb4a4a;
+}
+
+h2
+{
+    color: pink;
+}
+
+h5, p, a
+{
+    font-family: "Comic Sans MS", serif;
+}
+h5
+{
+    color: white;
+}
+
+p
+{
+    color: white;
+}
+
+a
+{
+    color: cyan;
+}
+
+nav
+{
+    background-color: #008686;
+}
