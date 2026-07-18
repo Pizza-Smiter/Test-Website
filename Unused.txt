@@ -7,4 +7,9 @@
         });
     }, {once: true});
 </script>
--->
+
+
+
+<p>Well it is my only actual website so I guess it already is. Anyways, I like to work on this website when I'm bored and have nothing better to do.</p>
+<p>There's not much to do on this website besides listen to some of my music (more is to come) and look at the beautiful photoshop I made at the top of the screen.</p>
+<p>I will probably be adding more to the website when I get around to learing CSS and Javascript.</p></p>
