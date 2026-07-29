@@ -1,0 +1,4 @@
+Stuff to-do
+
+1) Attempt to rewrite obj_Mainchara's code, preferrably without using a tutorial
+2) Write music for the game
