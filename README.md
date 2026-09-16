@@ -1,4 +1,2 @@
 # Test-Website
-This is a test, not my actual website
-
-https://pizza-smiter.github.io/Test-Website/
+This is my website, It's very cool and awesome.
