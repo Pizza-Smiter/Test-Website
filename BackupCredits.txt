@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+  h1 {text-align: center;}
+  p {text-align: center;}
+  div {text-align: center;}
+  a {text-align: center;}
+  h2 {text-align: center;}
+  h5 {text-align: center;}
+  body
+  <!--
+  {
+    background-image: url("minebackground.png");
+    background-repeat: repeat;
+  }
+  -->
+</style>
+<body style="background-color:Black;">
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Epic Test Website</title>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link href="layout.css" type="text/css" rel="stylesheet">
+  <link href="main.css" type="text/css" rel="stylesheet">
+
+</head>
+
+<body>
+
+
+<div class="header">
+
+</div>
+
+<nav>
+  <h2>Pages</h2>
+  <div><a href="index.html">Home</a></div>
+  <div><a href="Music.html">Music</a></div>
+  <!--<div><a href="Onion.html">Onion</a></div>-->
+  <div><a href="Games.html">Games</a></div>
+  <div><a href="Credits.html">Credits</a></div>
+</nav>
+
+
+<div id="main">
+  <p>&nbsp;</p>
+  <h1>This is where I put all the credits to things that helped me make this website</h1>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>This forum post helped me figure out how to make links open up in a separate tab for images</p>
+  <p><a href="https://stackoverflow.com/questions/3139811/how-to-link-an-image-and-target-a-new-window" target="_blank">https://stackoverflow.com/questions/3139811/how-to-link-an-image-and-target-a-new-window/</a></p>
+  <p>&nbsp;</p>
+  <p>This where I got the background for the home page (It's in the "backgrounds (animated)" page)</p>
+  <p><a href="https://www.spriters-resource.com/snes/smarioworld/" target="_blank">https://www.spriters-resource.com/snes/smarioworld/</a></p>
+  <p>&nbsp;</p>
+  <p>Also thanks to w3schools.com for a bunch of miscellaneous things, It was a very big help</p>
+  <p><a href="  https://www.w3schools.com/" target="_blank">https://www.w3schools.com/</a></p>
+
+  <!--
+  <p>&nbsp;</p>
+  <p>This where I got the background for this page (It's in the "Miscellaneous Foregrounds & Backgrounds" page)</p>
+  <p><a href="https://www.spriters-resource.com/snes/dkc/" target="_blank">https://www.spriters-resource.com/snes/dkc/</a></p>
+-->
+
+</div>
+</body>

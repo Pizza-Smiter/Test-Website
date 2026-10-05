@@ -1,35 +1,162 @@
 <!DOCTYPE html>
 <html lang="en">
+<style>
+    h1 {text-align: center;}
+    p {text-align: center;}
+    div {text-align: center;}
+    a {text-align: center;}
+    h2 {text-align: center;}
+    h5 {text-align: center;}
+</style>
+<link href="layout.css" type="text/css" rel="stylesheet">
 <link href="main.css" type="text/css" rel="stylesheet">
+<head>
+    <title>My Music!</title>
+</head>
+<nav>
+    <h2>Pages</h2>
+    <div><a href="index.html">Home</a></div>
+    <div><a href="Music.html">Music</a></div>
+    <!--<div><a href="Onion.html">Onion</a></div>-->
+    <div><a href="Games.html">Games</a></div>
+    <div><a href="Credits.html">Credits</a></div>
+</nav>
 <body style="background-color:DarkGreen;">
     <h1>My Music!!!</h1>
     <h5>Disclaimer, I'm not 100% if the dates on the songs are accurate. So maybe take them with a grain of salt.</h5>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <div>
+    <h2>Brainiac Maniac Arrangement</h2>
+    <h5>Created in Fl Studio 12</h5>
+    <h5>Made July 7, 2026</h5>
+    <p>I worked on this song over a couple days then slowed down. Then I stopped working on it completely for a while, and now I've tweaked and finished it as of 8/26/2026.</p>
+    <audio controls>
+        <source src="BrainiacManiacArrangement.mp3" type="audio/mpeg">
+    </audio>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+    <h2>Dr Scratchansniff's Revenge</h2>
+    <h5>Created in Fl Studio 12</h5>
+    <h5>Made August 24, 2026</h5>
+    <p>Ok so there's this song called Vs. Woody on Youtube and it's shtick is that it's pretending to be from the Toy Story SNES. This is the Animaniacs SNES version of that. Also fun little fact, the theoretical boss fight this song would play during went from Wakko to Mr.Plotz to Dr. Scratchansniff.</p>
+    <audio controls>
+        <source src="DrScratchansniffsRevenge.mp3" type="audio/mpeg">
+    </audio>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+    <h2>Field of Stuff and More Stuff</h2>
+    <h5>Created in Fl Studio 12</h5>
+    <h5>Made July 29, 2026</h5>
+    <p>Obviously inspired by Field of Hopes and Dreams by Toby Fox.</p>
+    <audio controls>
+        <source src="FieldOfStuffAndMoreStuff.mp3" type="audio/mpeg">
+    </audio>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+    <h2>It's not TV Time</h2>
+    <h5>Created in Fl Studio 12</h5>
+    <h5>Made July 24, 2026</h5>
+    <p>I created the melody by remaking the "It's TV Time" melody and then messing with it. I made the other melody by messing with the previous melody.</p>
+    <audio controls>
+        <source src="ItsNotTVTime.mp3" type="audio/mpeg">
+    </audio>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+    <h2>Party Midi</h2>
+    <h5>Created in Fl Studio 12</h5>
+    <h5>Made September 16, 2026</h5>
+    <p>I made this song with the same vibe of a credits song, like something that would play during the credits of a game or something. Also this was made with a Midi soundfont, not an actual Midi vst.</p>
+    <audio controls>
+        <source src="PartyMidi.mp3" type="audio/mpeg">
+    </audio>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+    <h2>The Forest</h2>
+    <h5>Created in Fl Studio 12</h5>
+    <h5>Made August 8, 2026</h5>
+    <p>If I remember correctly, I made this song in attempts to diversify the kind of music I made. Before I mostly just made very high energy songs and stuff.</p>
+    <audio controls>
+        <source src="TheForest.mp3" type="audio/mpeg">
+    </audio>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+    <h2>Spamton's Cold Comeback</h2>
+    <h5>Created in Fl Studio 12</h5>
+    <h5>Made September 28, 2026</h5>
+    <p>This is a song very heavily inspired by an old project I made of the same name.</p>
+    <audio controls>
+        <source src="SpamtonsColdComeback.mp3" type="audio/mpeg">
+    </audio>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <h1>Old Music</h1>
+    <h5>These songs are pretty old, I'm separating them to this section because they do not represent my musical talent anymore.</h5>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+
     <h2>Festive Shop Keeper</h2>
     <h5>Created in Fl Studio 12</h5>
     <h5>Made December 12, 2025</h5>
     <p>I'm not too sure what I'd use this song for, I kind of just make songs for this imaginary game I want to make in the future.</p>
     <audio controls>
-    <source src="MexicanShopKeeper.mp3" type="audio/mpeg">
+        <source src="MexicanShopKeeper.mp3" type="audio/mpeg">
     </audio>
-    <h2>Piano Fight</h2>
-    <h5>Created in Fl Studio 12</h5>
-    <h5>Made ??? (Will update when i figure out)</h5>
-    <p>This is a pretty old song I made when I was probably 11 or 12 years old.I decided to kind of remaster for this website, It was more just cleaning up the song.</p>
-    <audio controls>
-    <source src="PianoFightV3.mp3" type="audio/mpeg">
-    </audio>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
     <h2>Part-Time Polka</h2>
     <h5>Created in Musescore 4</h5>
     <h5>Made May 16, 2025</h5>
     <p>I have no idea know why I added so much reverb when I made this song.</p>
     <audio controls>
-    <source src="PartTimePolka.mp3" type="audio/mpeg">
+        <source src="PartTimePolka.mp3" type="audio/mpeg">
     </audio>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+    <h2>Piano Fight</h2>
+    <h5>Created in Fl Studio 12</h5>
+    <h5>Made ??? (I have no idea)</h5>
+    <p>This is a semi-remaster. All I really did was clean it up a little bit and change some things, but the song is mostly the same.</p>
+    <audio controls>
+        <source src="PianoFightV3.mp3" type="audio/mpeg">
+    </audio>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
     <h2>Super Duper Evil Gang Song</h2>
     <h5>Created in Fl Studio 25</h5>
     <h5>August 29, 2025</h5>
     <p>The melody in the song sounds compressed because when the FL people added the soundfont player back in FL 20 they broke it. It's kind of the reason I switched to Fl 12</p>
     <audio controls>
-    <source src="SuperDuperEvilGangSong.mp3" type="audio/mpeg">
+        <source src="SuperDuperEvilGangSong.mp3" type="audio/mpeg">
     </audio>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+    <h2>Boss</h2>
+    <h5>Created in Fl Studio 12</h5>
+    <h5>Made January 11, 2026</h5>
+    <p>It's kind of funny that for a time this was my Magnum Opus for a while and now in retrospect it kind of sucks. Which now that I think about it, I'll have the same opinions on the songs i make now in maybe a year or 2. Also this is yet another case of me being bad at naming things.</p>
+    <audio controls>
+        <source src="Boss.mp3" type="audio/mpeg">
+    </audio>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+    <h2>Ghost Jazz</h2>
+    <h5>Created in Fl Studio 12</h5>
+    <h5>Made March 27, 2026</h5>
+    <p>Really the only thing interesting enough to add is that it was made using some Kontakt instruments, idk</p>
+    <audio controls>
+        <source src="GhostJazz.mp3" type="audio/mpeg">
+    </audio>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+    <h2>Hip to Be Noisy</h2>
+    <h5>Created in Fl Studio 12</h5>
+    <h5>Made December 10, 2025</h5>
+    <p>This was supposed to be the Noise's version of Hip to be Italian from Pizza Tower. But I guess I kind of lost the plot and the vibe of the song is a bit different.</p>
+    <audio controls>
+        <source src="HipToBeNoisey.mp3" type="audio/mpeg">
+    </audio>
+    </div>
 </body>

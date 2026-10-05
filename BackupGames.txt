@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+    h1 {text-align: center;}
+    p {text-align: center;}
+    div {text-align: center;}
+    a {text-align: center;}
+    h2 {text-align: center;}
+    h5 {text-align: center;}
+</style>
+
+<body style="background-color:#605547;">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Games!</title>
+    <link href="layout.css" type="text/css" rel="stylesheet">
+    <link href="main.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+
+<nav>
+    <h2>Pages</h2>
+    <div><a href="index.html">Home</a></div>
+    <div><a href="Music.html">Music</a></div>
+    <!--<div><a href="Onion.html">Onion</a></div>-->
+    <div><a href="Games.html">Games</a></div>
+    <div><a href="Credits.html">Credits</a></div>
+</nav>
+
+<h1>GAMES!</h1>
+<p>Click on a game to play it!</p>
+<a href="Minecat.html"><img src="Minecat.png" alt="Minecat Game" style="width:480px;height:360px;"></a>
+
+
+
+
+
+</body>
