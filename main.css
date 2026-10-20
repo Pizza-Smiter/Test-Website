@@ -38,8 +38,14 @@ a
 {
     color: cyan;
 }
-
+/*
 nav
 {
     background-color: #008686;
+}
+*/
+
+nav
+{
+    font-size: 1.5rem;
 }
