@@ -17,3 +17,11 @@ nav
     top: 0;
     right: 95%;
 }
+
+td
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
